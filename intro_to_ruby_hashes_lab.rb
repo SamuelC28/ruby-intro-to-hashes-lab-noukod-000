@@ -7,7 +7,7 @@ hash = {:actor => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {[{}]}
 
 end
 
